@@ -24,8 +24,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Python.0701">
-    <configuration name="0701" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.0713-06">
+    <configuration name="0713-02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="hello" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -37,7 +37,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test001/0701.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test001/0713-02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -46,7 +46,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="0713-04" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="hello" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,7 +58,70 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test001/1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test001/0713-04.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="0713-05" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hello" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test001" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test001/0713-05.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="0713-06" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hello" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test001" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test001/0713-06.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="0713_03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hello" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test001" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test001/0713_03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -69,8 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.0701" />
-        <item itemvalue="Python.1" />
+        <item itemvalue="Python.0713-06" />
+        <item itemvalue="Python.0713-05" />
+        <item itemvalue="Python.0713-04" />
+        <item itemvalue="Python.0713_03" />
+        <item itemvalue="Python.0713-02" />
       </list>
     </recent_temporary>
   </component>
@@ -104,29 +170,29 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="420" y="95" key="FileChooserDialogImpl/0.0.1280.680/-1920.9.1920.1040@0.0.1280.680" timestamp="1594347252461" />
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1594347779272">
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1594645004057">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.9.1920.1040@0.0.1280.680" timestamp="1594347779272" />
-    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1594347779272">
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.9.1920.1040@0.0.1280.680" timestamp="1594645004057" />
+    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1594645004057">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680/-1920.9.1920.1040@0.0.1280.680" timestamp="1594347779272" />
-    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1594347779271">
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680/-1920.9.1920.1040@0.0.1280.680" timestamp="1594645004057" />
+    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1594645004057">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680/-1920.9.1920.1040@0.0.1280.680" timestamp="1594347779271" />
-    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1594347779272">
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680/-1920.9.1920.1040@0.0.1280.680" timestamp="1594645004057" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1594645004057">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680/-1920.9.1920.1040@0.0.1280.680" timestamp="1594347779272" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680/-1920.9.1920.1040@0.0.1280.680" timestamp="1594645004057" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1594347769697">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680/-1920.9.1920.1040@0.0.1280.680" timestamp="1594347769697" />
-    <state x="329" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1594346909493">
+    <state x="329" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1594638253608">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="329" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680/-1920.9.1920.1040@0.0.1280.680" timestamp="1594346909493" />
+    <state x="329" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680/-1920.9.1920.1040@0.0.1280.680" timestamp="1594638253608" />
   </component>
 </project>
