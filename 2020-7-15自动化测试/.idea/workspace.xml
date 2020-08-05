@@ -22,10 +22,37 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src0715" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
-    <configuration name="0715-01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\2_codeme\Python\2020-7-15自动化测试\src0715" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for test04.Test080301">
+    <configuration name="test01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2020-7-15自动化测试" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src0715/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src0715/test/test01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test03" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="2020-7-15自动化测试" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -37,7 +64,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src0715/0715-01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src0715/test03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -46,9 +73,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests for test04.Test080301" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="2020-7-15自动化测试" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src0715" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test04.Test080301&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test04.Test080301.test_1" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="2020-7-15自动化测试" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src0715" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test04.Test080301.test_1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test04.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="2020-7-15自动化测试" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src0715" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src0715/test04.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.0715-01" />
+        <item itemvalue="Python tests.Unittests for test04.Test080301" />
+        <item itemvalue="Python tests.Unittests in test04.py" />
+        <item itemvalue="Python tests.Unittests for test04.Test080301.test_1" />
+        <item itemvalue="Python.test03" />
+        <item itemvalue="Python.test01" />
       </list>
     </recent_temporary>
   </component>
@@ -78,29 +151,46 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1594824314814">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596464883894">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1596464883894" />
+    <state x="391" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596615973529">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="391" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1596615973529" />
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1596619176994">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.9.1920.1040@0.0.1280.680" timestamp="1594824314814" />
-    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1594824314814">
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1596619176994" />
+    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1596619176994">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680/-1920.9.1920.1040@0.0.1280.680" timestamp="1594824314814" />
-    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1594824314814">
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1596619176994" />
+    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1596619176994">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680/-1920.9.1920.1040@0.0.1280.680" timestamp="1594824314814" />
-    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1594824314814">
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1596619176994" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1596619176994">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680/-1920.9.1920.1040@0.0.1280.680" timestamp="1594824314814" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1596619176994" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1594810173723">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680/-1920.9.1920.1040@0.0.1280.680" timestamp="1594810173723" />
-    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1594979019311">
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1596504448019">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680/-1920.9.1920.1040@0.0.1280.680" timestamp="1594979019311" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1596504448019" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1596506038415">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1596506038415" />
   </component>
 </project>
