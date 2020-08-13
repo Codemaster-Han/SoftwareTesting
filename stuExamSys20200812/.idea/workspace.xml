@@ -25,7 +25,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../2020-7-15自动化测试" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
-  <component name="RunManager" selected="Python.queryHtml">
+  <component name="RunManager" selected="Python tests.Unittests for test0813.TestChrom01.test_05">
     <configuration name="deleteHtml" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="stuExamSys20200812" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -39,27 +39,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src0812/deleteHtml.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="inserHtml" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="stuExamSys20200812" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src0812" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src0812/inserHtml.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,7 +68,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_untitled" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="testSuitUnittest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="stuExamSys20200812" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,7 +80,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src0812/test_untitled.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src0812/testSuitUnittest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,13 +110,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests for test0813.TestChrom01.test_05" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="stuExamSys20200812" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src0812" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test0813.TestChrom01.test_05&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests for test0813.TestChrom01.test_05" />
+        <item itemvalue="Python.testSuitUnittest" />
         <item itemvalue="Python.queryHtml" />
         <item itemvalue="Python.updataHtml" />
         <item itemvalue="Python.deleteHtml" />
-        <item itemvalue="Python.inserHtml" />
-        <item itemvalue="Python.test_untitled" />
       </list>
     </recent_temporary>
   </component>
@@ -167,33 +160,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1597227664642">
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1597281389256">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1597227664642" />
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1597240001417">
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1597281389256" />
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1597287487234">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1597240001417" />
-    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1597240001417">
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1597287487234" />
+    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1597287487234">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1597240001417" />
-    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1597240001416">
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1597287487234" />
+    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1597287487233">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1597240001416" />
-    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1597240001417">
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1597287487233" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1597287487234">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1597240001417" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1597287487234" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1597222651659">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1597222651659" />
-    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1597221602418">
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1597280993440">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1597221602418" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1597280993440" />
   </component>
 </project>
